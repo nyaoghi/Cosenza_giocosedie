@@ -1,6 +1,6 @@
 <h1 align="center">Gioco delle sedie</h1>
 
-<p align="center" style="font-family: monospace">Cosenza Olga <a href="https://github.com/mciuchetti">@mciuchetti</a></p>
+<p align="center" style="font-family: monospace">Cosenza Olga <a href="https://github.com/nyaoghi">@nyaoghi</a></p>
 <p align="center" style="font-family: monospace">TPSIT - 5AINF <a href="https://www.avoltapg.edu.it/">ITTS A. Volta (PG)</a></p>
 
 
