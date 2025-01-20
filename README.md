@@ -1,8 +1,8 @@
 <h1 align="center">Gioco delle sedie</h1>
 
-<p align="center" style="font-family: monospace">Monica Ciuchetti <a href="https://github.com/mciuchetti">@mciuchetti</a></p>
-<p align="center" style="font-family: monospace">Corso TPSIT <a href="https://www.avoltapg.edu.it/">ITTS A. Volta (PG)</a></p>
-<p align="center" style="font-family: monospace">Template del file README.md ispirato da <a href="https://github.com/matbagnoletti">@matbagnoletti</a></p>
+<p align="center" style="font-family: monospace">Cosenza Olga <a href="https://github.com/mciuchetti">@mciuchetti</a></p>
+<p align="center" style="font-family: monospace">TPSIT - 5AINF <a href="https://www.avoltapg.edu.it/">ITTS A. Volta (PG)</a></p>
+
 
 ## Descrizione
 Applicazione Java per simulare il gioco delle sedie, in cui i giocatori sono più delle sedie disponibili.
