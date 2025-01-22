@@ -1,15 +1,19 @@
- id thread: 36 posto in cui si è seduto: 0
- id thread: 31 posto in cui si è seduto: 1
- id thread: 30 posto in cui si è seduto: 2
- id thread: 23 posto in cui si è seduto: 3
- id thread: 35 posto in cui si è seduto: 4
- id thread: 29 posto in cui si è seduto: 5
+ id thread: 32 posto in cui si è seduto: 0
+ id thread: 40 posto in cui si è seduto: 1
+ id thread: 42 posto in cui si è seduto: 2
+ id thread: 37 posto in cui si è seduto: 3
+ id thread: 23 posto in cui si è seduto: 4
+ id thread: 27 posto in cui si è seduto: 5
  id thread: 34 posto in cui si è seduto: 6
- id thread: 24 posto in cui si è seduto: 7
+ id thread: 38 posto in cui si è seduto: 7
  id thread: 28 posto in cui si è seduto: 8
- id thread: 32 posto in cui si è seduto: 9
- id thread: 26 posto in cui si è seduto: 10
- id thread: 37 posto in cui si è seduto: 11
- id thread: 33 posto in cui si è seduto: 12
- id thread: 38 posto in cui si è seduto: 13
+ id thread: 31 posto in cui si è seduto: 9
+ id thread: 24 posto in cui si è seduto: 10
+ id thread: 29 posto in cui si è seduto: 11
+ id thread: 30 posto in cui si è seduto: 12
+ id thread: 35 posto in cui si è seduto: 13
  id thread: 25 posto in cui si è seduto: 14
+ id thread: 33 posto in cui si è seduto: 15
+ id thread: 36 posto in cui si è seduto: 16
+ id thread: 39 posto in cui si è seduto: 17
+ id thread: 26 posto in cui si è seduto: 18
