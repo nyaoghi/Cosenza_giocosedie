@@ -2,18 +2,27 @@ package giocosedie;
 import java.io.FileWriter;
 import java.io.IOException;
 
-
+/**
+ * classe per la gestione dei partecipanti e delle sedie
+ */
 class Partecipante extends Thread
 
 {
 	Posto sedie[];
 
+/**
+ * metodo costruttore della classe Partecipante
+ * @param sedie array della classe Posto 
+ */
 	public Partecipante(Posto sedie[]) {
 
 		this.sedie = sedie;
 
 	}
-
+/**
+ * metodo run per lo svolgimento del gioco 
+ * decisione dell'occupazione del posto 
+ */
 	public void run() {
 
 		try {
@@ -34,7 +43,10 @@ class Partecipante extends Thread
 			throw new RuntimeException(e);
 		}
 	}
-
+/**
+ * metodo per la scrittura del file Risultato.txt
+ * @param i index 
+ */
     public void scriviFile(int i){
 		try {
 			FileWriter scrittore = new FileWriter("Risultato.txt", true);

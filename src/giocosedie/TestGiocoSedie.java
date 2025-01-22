@@ -14,7 +14,13 @@ import java.util.logging.Logger;
 /**
  *
  * @author Cosenza Olga
+ * 
  */
+/**
+ * gestione numero di partecipanti, sedie
+ * gestione dei thread partecipanti e della classe monitor Display
+ */
+
 public class TestGiocoSedie {
        private static int nPartecipanti = 0;
     //private final static int NUMSEDIE = nPartecipanti-1 ;
@@ -23,6 +29,12 @@ public class TestGiocoSedie {
     /**
      * @param args the command line arguments
      */
+
+     /**
+      * metodo principale di avvio del programma
+      * classe monitor e file con la stampa dei risultati
+      *
+      */
     public static void main(String[] args) {
         @suppressWarnings
 

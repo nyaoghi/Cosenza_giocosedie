@@ -5,7 +5,10 @@ class Display extends Thread
 {
 	private Posto sedie[];
 	private boolean endgame;
-
+/**
+ * 
+ * @param sedie
+ */
 	public Display(Posto sedie[]) {
 
 
