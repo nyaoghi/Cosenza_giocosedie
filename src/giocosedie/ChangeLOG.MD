@@ -2,7 +2,6 @@
 
 File di documentazione sulle nuove versioni ed aggiornamenti
 
-Il formato è basato su [Keep a Changelog](https://keepachangelog.com/it/1.0.0/), e questo progetto segue [Semantic Versioning](https://semver.org/lang/it/).
 
 ## [Unreleased]
 ### Added
